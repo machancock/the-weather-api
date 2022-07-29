@@ -33,7 +33,3 @@ const Weather = props => {
 )};
 
 export default Weather;
-
-// without {} all fields would appear on the Web API. These brackets, make it so that the fields are off the screen until submit has been clicked.
-// AND operators / Conditional Operators
-// If/Else doesn't work
