@@ -1,8 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# The Weather App (My first project)
 
-## Available Scripts
-
-In the project directory, you can run:
+<img width="1353" alt="weather-api" src="https://user-images.githubusercontent.com/42985712/181861916-2859b8d5-7bd0-48d6-95cb-93bcf3d1efd6.PNG">
+Built with React, Bootstrap, and the Open Weather API
 
 ### `npm start`
 
